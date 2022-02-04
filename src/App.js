@@ -35,11 +35,11 @@ function App() {
             <th>kor:</th>
             <th>nem:</th>
           </tr>
-          {Adat.map((item, index) => (
-            <tr key={index} className={item.neme === "fiú" ? "fiú" : "lány"}>
-              <td>{item.neve}</td>
-              <td>{item.kora}</td>
-              <td>{item.neme}</td>
+          {Adat.map((emberek, index) => (
+            <tr key={index} className={emberek.neme === "fiú" ? "fiú" : "lány"}>
+              <td>{emberek.neve}</td>
+              <td>{emberek.kora}</td>
+              <td>{emberek.neme}</td>
             </tr>
           ))}
         </table>
