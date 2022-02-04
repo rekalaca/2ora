@@ -1,0 +1,27 @@
+[
+    {
+        "neve": "Liza",
+        "kora" : 9,
+        "neme" : "lány"
+    },
+    {
+        "neve": "Andi",
+        "kora" : 40,
+        "neme" : "lány"
+    },
+    {
+        "neve": "Laca",
+        "kora" : 13,
+        "neme" : "fiú"
+    },
+    {
+        "neve": "Kitty",
+        "kora" : 18,
+        "neme" : "lány"
+    },
+    {
+        "neve": "Joe",
+        "kora" : 28,
+        "neme" : "fiú"
+    }
+]

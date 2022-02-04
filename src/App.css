@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+td, th, tr{
+  border: 1px solid blue;
+}
+table{
+  border: 1px solid blue;
+  margin: 0 auto 0 auto;
+  width: 500px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 30px;
+}
+.fiú{
+  background-color: lightblue;
+}
+.lány{
+  background-color: pink;
+}
+.Benzin{
+  background-color: lightcoral;
+}
+.Diesel{
+  background-color: lightgreen;
+}
+body{
+  background-color: rgb(238, 212, 178);
+}
+#bekeres{
+  text-align: center;
+  margin-top: 60px;
+}
+button{
+  background-color: green;
+  color: antiquewhite;
+  width: 100px;
+  border-radius: 10px;
+}

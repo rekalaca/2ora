@@ -1,0 +1,21 @@
+[{
+    "marka": "Skoda",
+    "uzemanyag": "Benzin",
+    "hengerurtartalom": 1200
+},
+{
+    "marka": "Lada",
+    "uzemanyag": "Benzin",
+    "hengerurtartalom": 1500
+},
+{
+    "marka": "Mercedes",
+    "uzemanyag": "Diesel",
+    "hengerurtartalom": 2000
+},
+{
+    "marka": "ZIL",
+    "uzemanyag": "Diesel",
+    "hengerurtartalom": 7000
+}
+]
